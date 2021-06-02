@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 ### ⚡ Fun fact I just made this readme
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
