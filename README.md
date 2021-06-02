@@ -1,5 +1,5 @@
 ### 👋 Hey I'm Wes and I am a senior👑 CS major at Gonzaga University 
-### ⚙️ Currently I am working on a personal website🕸️  wesmuehlhausen.com
+### ⚙️ Currently I am working on a personal website🕸️  http://wesmuehlhausen.com 
 ### 🔗 How to reach me: send me an email 🦉  wesmuehlhausen@gmail.com
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
