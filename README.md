@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
+[![Discord](https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord=https://discord.gg/hhxtmDXc/)](https://discord.gg/hhxtmDXc)
 ### 🧠 Here's what I have experience with...
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
