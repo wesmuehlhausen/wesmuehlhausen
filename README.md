@@ -1,5 +1,5 @@
 ###  Welcome to my humble abode 🛕
-👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University.
+👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University. 
 ⚙️ I am currently working on a [personal website🕸️](http://wesmuehlhausen.com/).
 🔗 I am always down to collaborate on projects. Feel free to contact me by owl 🦉 or with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
