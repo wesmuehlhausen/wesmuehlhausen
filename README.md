@@ -15,10 +15,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-green?style=flat-square&logo=jetbrains)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wesmuehlhausen&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 
 <!--
@@ -34,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wesmuehlhausen&count_private=true&show_icons=true&include_all_commits=true)
 -->
