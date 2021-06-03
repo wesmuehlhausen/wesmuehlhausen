@@ -1,7 +1,7 @@
-### 👋 Hey, I'm Wes
-### 👨‍💻 I am a senior👑 CS major at Gonzaga University 🏰
-### ⚙️ Currently I am working on a personal website🕸️  http://wesmuehlhausen.com 
-### 🔗 How to reach me:  wesmuehlhausen@gmail.com  or by owl 🦉 
+###  Welcome to my humble abode 🛕
+👋 Hey there, my name is Wes and I am a senior👑 CS major at Gonzaga University. 
+⚙️ I am currently working on a [personal website🕸️.](http://wesmuehlhausen.com/)    
+🔗 I am always down to collaborate on projects. Feel free to contact me by owl 🦉 or with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
