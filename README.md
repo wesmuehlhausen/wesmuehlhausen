@@ -2,6 +2,7 @@
 ### 👨‍💻 I am a senior👑 CS major at Gonzaga University 🏰
 ### ⚙️ Currently I am working on a personal website🕸️  http://wesmuehlhausen.com 
 ### 🔗 How to reach me:  wesmuehlhausen@gmail.com  or by owl 🦉 
+[![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
