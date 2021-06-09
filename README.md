@@ -1,5 +1,5 @@
 ###  Welcome to my humble abode 🛕 
-👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University.<br />⚙️ I am currently working on a [personal website🕸️.](http://wesmuehlhausen.com/) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)<br />🔗 I am always down to collaborate on projects. Feel free to contact me by owl 🦉 or with:  
+👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University.<br />⚙️ I am currently working on a [personal website🕸️.](http://wesmuehlhausen.com/) <br />🔗 I am always down to collaborate on projects. Feel free to contact me by owl 🦉 or with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
@@ -15,7 +15,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Nodejs](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node.js)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-green?style=flat-square&logo=jetbrains)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-#FF9E0F?style=flat-square&logo=jetbrains)
 ![Scala](https://img.shields.io/badge/-Scala-green?style=flat-square&logo=scala)
 ![OCaml](https://img.shields.io/badge/-OCaml-green?style=flat-square&logo=ocaml)
 ![Windows](https://img.shields.io/badge/-Windows-green?style=flat-square&logo=windows)
@@ -23,7 +23,7 @@
 ![CMake](https://img.shields.io/badge/-CMake-green?style=flat-square&logo=cmake)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-green?style=flat-square&logo=microsoft%20office)
 ![Google Domains](https://img.shields.io/badge/-Google%20Domains-green?style=flat-square&logo=google%20domains)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 
 
 <!--
