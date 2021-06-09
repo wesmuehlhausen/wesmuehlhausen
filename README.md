@@ -21,10 +21,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-green?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-green?style=flat-square&logo=linux)
 ![CMake](https://img.shields.io/badge/-CMake-green?style=flat-square&logo=cmake)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft Office-green?style=flat-square&logo=microsoft office)
-![Google Domains](https://img.shields.io/badge/-Google Domains-green?style=flat-square&logo=google domains)
-
-
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-green?style=flat-square&logo=microsoft%20office)
+![Google Domains](https://img.shields.io/badge/-Google%20Domains-green?style=flat-square&logo=google%20domains)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 
 
