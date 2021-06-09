@@ -13,10 +13,18 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Nodejs](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node.js)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-green?style=flat-square&logo=jetbrains)
+![Scala](https://img.shields.io/badge/-Scala-green?style=flat-square&logo=scala)
+![OCaml](https://img.shields.io/badge/-OCaml-green?style=flat-square&logo=ocaml)
+![Windows](https://img.shields.io/badge/-Windows-green?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-green?style=flat-square&logo=linux)
+![CMake](https://img.shields.io/badge/-CMake-green?style=flat-square&logo=cmake)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft Office-green?style=flat-square&logo=microsoft office)
+![Google Domains](https://img.shields.io/badge/-Google Domains-green?style=flat-square&logo=google domains)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 
 
