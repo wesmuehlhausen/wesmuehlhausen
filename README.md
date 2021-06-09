@@ -15,9 +15,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-green?style=flat-square&logo=jetbrains)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
+
 
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
