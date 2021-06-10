@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-grey?style=flat-square&logo=jetbrains&logoColor=FF9E0F)
 ![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=scala&logoColor=e61e1e)
 ![OCaml](https://img.shields.io/badge/-OCaml-9e9685?style=flat-square&logo=ocaml&logoColor=de9b00)
