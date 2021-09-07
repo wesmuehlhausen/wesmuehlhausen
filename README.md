@@ -1,5 +1,5 @@
 ###  Welcome to my humble abode 🛕 
-👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University.<br />⚙️ I just put my [website🕸️](http://wesmuehlhausen.com/) up and currently I'm making a game! <br />🔗 Feel free to contact me by owl 🦉 or with:  
+👋 Hey there, my name is Wes and I am a senior CS major at Gonzaga University.<br />⚙️ I just put my [website🕸️](http://wesmuehlhausen.com/) up (will be updated soon) and currently I'm making a game! <br />🔗 Feel free to contact me by owl 🦉 or with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
