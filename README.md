@@ -7,14 +7,11 @@
 ### 🧠 Here's some of the stuff I have experience with...
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=e80000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-grey?style=flat-square&logo=jetbrains&logoColor=FF9E0F)
 ![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=scala&logoColor=e61e1e)
 ![OCaml](https://img.shields.io/badge/-OCaml-9e9685?style=flat-square&logo=ocaml&logoColor=de9b00)
@@ -27,6 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-404040?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 
+### Here's some other stuff I've worked with...
 
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
