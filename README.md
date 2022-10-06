@@ -11,6 +11,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+### Here's some other stuff I've worked with...
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-grey?style=flat-square&logo=jetbrains&logoColor=FF9E0F)
 ![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=scala&logoColor=e61e1e)
@@ -22,10 +26,8 @@
 ![Google Domains](https://img.shields.io/badge/-Google%20Domains-01664e?style=flat-square&logo=google%20domains&logoColor=5117e6)
 ![Virtual Box](https://img.shields.io/badge/-VirtualBox-aaaaad?style=flat-square&logo=virtualbox&logoColor=000cb5)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-404040?style=flat-square&logo=ubuntu&logoColor=E95420)
+!
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
-
-### Here's some other stuff I've worked with...
-
 <!--
 **wesmuehlhausen/wesmuehlhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
