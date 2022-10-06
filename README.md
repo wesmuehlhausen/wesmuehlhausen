@@ -1,5 +1,5 @@
 #  Welcome :man_technologist: 
-👋 Hey there, my name is Wesley and I am a senior CS major at Gonzaga University.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/) ! <br />🔗 Feel free to contact me with:  
+👋 Hey there, my name is Wesley and I am a recent graduate CS major from Gonzaga University.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/) ! <br />🔗 Feel free to contact me with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
