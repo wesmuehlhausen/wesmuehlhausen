@@ -1,20 +1,23 @@
 #  Welcome :man_technologist: 
-👋 Hey there, my name is Wesley and I am a recent graduate CS major from Gonzaga University.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/) ! <br />🔗 Feel free to contact me with:  
+###👋 Hey there, my name is Wesley and I recently graduated from Gonzaga University with a BS in Computer Science.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/)! I am currently working on a larger project using Ruby on Rails.
+<br />🔗 Feel free to contact me with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
-[![Instagram Badge](https://img.shields.io/badge/-wes_mu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wes_mu/)](https://instagram.com/wes_mu)
 [![Discord](https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/hhxtmDXc/)](https://discord.gg/hhxtmDXc)
 ### 🧠 Here's some of the stuff I have experience with...
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=e80000)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) (shocker)
 
 
 
 ### Here's some other stuff I've worked with...
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-grey?style=flat-square&logo=jetbrains&logoColor=FF9E0F)
@@ -27,6 +30,8 @@
 ![Google Domains](https://img.shields.io/badge/-Google%20Domains-01664e?style=flat-square&logo=google%20domains&logoColor=5117e6)
 ![Virtual Box](https://img.shields.io/badge/-VirtualBox-aaaaad?style=flat-square&logo=virtualbox&logoColor=000cb5)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-404040?style=flat-square&logo=ubuntu&logoColor=E95420)
+
+<br /> and a whole lot of ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 <!--
