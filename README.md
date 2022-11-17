@@ -1,4 +1,5 @@
-#  Welcome :man_technologist: 
+#  Welcome :man_technologist:
+<br />
 ###👋 Hey there, my name is Wesley and I recently graduated from Gonzaga University with a BS in Computer Science.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/)! I am currently working on a larger project using Ruby on Rails.
 <br />🔗 Feel free to contact me with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
