@@ -10,11 +10,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) (shocker)
 
 
 
 ### Here's some other stuff I've worked with...
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-grey?style=flat-square&logo=jetbrains&logoColor=FF9E0F)
 ![Scala](https://img.shields.io/badge/-Scala-white?style=flat-square&logo=scala&logoColor=e61e1e)
