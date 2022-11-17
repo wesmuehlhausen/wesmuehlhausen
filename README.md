@@ -1,7 +1,7 @@
 #  Welcome :man_technologist:
-<br />
-###👋 Hey there, my name is Wesley and I recently graduated from Gonzaga University with a BS in Computer Science.<br />⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/)! I am currently working on a larger project using Ruby on Rails.
-<br />🔗 Feel free to contact me with:  
+
+### Hey there, my name is Wesley and I recently graduated from Gonzaga University with a BS in Computer Science. ⚙️ I just added a game to my [website🕸️](http://wesmuehlhausen.com/)! I am currently working on a larger project using Ruby on Rails.
+### 🔗 Feel free to contact me with:  
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/hhxtmDXc/)](https://discord.gg/hhxtmDXc)
@@ -36,8 +36,7 @@
 ![Virtual Box](https://img.shields.io/badge/-VirtualBox-aaaaad?style=flat-square&logo=virtualbox&logoColor=000cb5)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-<br /> and a whole lot of ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+and a whole lot of ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesmuehlhausen.wesmuehlhausen)
 <!--
