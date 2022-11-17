@@ -5,18 +5,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-wesmuehlhausen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wesmuehlhausen@gmail.com)](mailto:wesmuehlhausen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wesmuehlhausen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)](https://www.linkedin.com/in/wesley-muehlhausen-9584a3186/)
 [![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/hhxtmDXc/)](https://discord.gg/hhxtmDXc)
-### 🧠 Here's some of the stuff I have experience with...
+### 🧠 These languages I've worked with a lot...
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
 
 ### Here's some other stuff I've worked with...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
